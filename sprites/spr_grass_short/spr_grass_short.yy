@@ -44,7 +44,7 @@
     "eventStubScript": null,
     "eventToFunction": {},
     "length": 1.0,
-    "lockOrigin": true,
+    "lockOrigin": false,
     "moments": {"resourceType":"KeyframeStore<MomentsEventKeyframe>","resourceVersion":"1.0","Keyframes":[],},
     "playback": 1,
     "playbackSpeed": 30.0,
